@@ -8,12 +8,12 @@ the element that contains the link should grow in size by 5px on the left and ri
 /***Change the color of the links text and background on hover***/
 li:hover {
 	color: purple;
-	/*background-color: pink;*/
+	background-color: pink;
 }
 
 /***Make element change colors on hover***/
 ul:hover {
-	background-color: pink;
+	/*background-color: pink;*/
 }
 
 /***Make element bigger by 5px when active***/
