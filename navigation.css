@@ -17,6 +17,6 @@ ul:hover {
 }
 
 /***Make element bigger by 5px when active***/
-ul:active {
+li:active {
 	font-size: 1.3125em;
 }
