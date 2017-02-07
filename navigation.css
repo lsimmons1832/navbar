@@ -1,0 +1,22 @@
+/*When the user hovers over one of the links, 
+the color of the text should change.
+When the user hovers over one of the links, 
+the background color of the element that contains the link should change.
+When the user clicks on one of the links, 
+the element that contains the link should grow in size by 5px on the left and right.*/
+
+/***Change the color of the links text and background on hover***/
+li:hover {
+	color: purple;
+	background-color: pink;
+}
+
+/***Make element change colors on hover***/
+ul:hover {
+	/*background-color: pink;*/
+}
+
+/***Make element bigger by 5px when active***/
+li:active {
+	font-size: 1.3125em;
+}
